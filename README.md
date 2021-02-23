@@ -5,4 +5,4 @@ This code has interrupts at the 10th second of everyminute, it wakes the sleepin
 With the lcd panel and the arduino being waked up the system draws about 60mA of current and when the arduino is sleeping it draws about 40 mA of current.
 
 In arduino nano only the pins A4 and A5 are the SDA and SCL pins respectively for the i2c communication. Since we have a lcd and an rtc module that both use I2C for communnication we can use the same set of pins for both devices as each device has a different id and handed seperately
-https://user-images.githubusercontent.com/53753302/108868037-cff3fb80-761b-11eb-8c0e-5325ad5882a3.jpeg
+! [https://user-images.githubusercontent.com/53753302/108868037-cff3fb80-761b-11eb-8c0e-5325ad5882a3.jpeg]
