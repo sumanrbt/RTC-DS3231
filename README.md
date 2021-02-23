@@ -9,4 +9,4 @@ Note that the backlight of the lcd alone consumes 10mA.
 The nano and the rtc without the lcd consumes 10mA in the sleep mode and 30 mA in the normal wake stage
 
 ![Test Image 4](https://user-images.githubusercontent.com/53753302/108868037-cff3fb80-761b-11eb-8c0e-5325ad5882a3.jpeg)
-
+![Test Image 4](https://user-images.githubusercontent.com/53753302/108874145-e309ca00-7621-11eb-8703-2cfb91698ef8.png)
