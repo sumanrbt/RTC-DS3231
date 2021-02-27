@@ -10,3 +10,5 @@ The nano and the rtc without the lcd consumes 10mA in the sleep mode and 30 mA i
 
 ![Test Image 4](https://user-images.githubusercontent.com/53753302/108868037-cff3fb80-761b-11eb-8c0e-5325ad5882a3.jpeg)
 ![Test Image 4](https://user-images.githubusercontent.com/53753302/108874145-e309ca00-7621-11eb-8703-2cfb91698ef8.png)
+
+The 3/4 inch white solenoid valve draws 450 mA for opening at 12V and the length of the wire attached doesnt affect the current drawn(current measuring device power supply 0.45A)
